@@ -1,0 +1,6 @@
+{
+  "name": "GeoValuate",
+  "description": "Explainable Geo-Spatial GNN and Gradient Boosting platform for accurate, interpretable property valuation across Hyderabad, Ames, and California housing datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
